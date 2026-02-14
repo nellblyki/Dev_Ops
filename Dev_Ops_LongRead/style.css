@@ -14,3 +14,11 @@ header {
   display: flex;
   gap: 50px;
 }
+.artemiy{
+  background-color: purple;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
