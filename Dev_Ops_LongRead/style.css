@@ -1,3 +1,6 @@
+body{
+  margin: 0 auto;
+}
 .maxim {
   background-color: pink;
   width: 100%;
@@ -11,11 +14,27 @@
   height: 250px;
 }
 header {
+  padding: 10px;
   display: flex;
   gap: 50px;
+  width: 100%;
+  height: 50px;
+  background-color: darkorchid;
+}
+header a{
+  text-decoration: none;
+  color: black;
 }
 .artemiy{
   background-color: purple;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.denis{
+  background-color: rgba(0, 123, 255, 0.681);
   width: 100%;
   height: 300px;
   display: flex;
