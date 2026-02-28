@@ -41,3 +41,21 @@ header a{
   align-items: center;
   justify-content: space-around;
 }
+main{
+  margin: 0;
+}
+.flex{
+  display: flex;
+}
+.flex a {
+  padding: 10px;
+  color: black;
+}
+footer h3{
+  margin: 0;
+  padding: 10px;
+}
+footer{
+  margin: 0;
+  background-color: darkslateblue;
+}
